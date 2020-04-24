@@ -10,7 +10,7 @@ class App extends React.Component {
       <div className="App">
         <h1>Halo woerld</h1>
         <h2>Halo Woerld</h2>
-        <Button type="outlined">Button</Button>
+        <Button type="outlined">Tombol</Button>
         <Button type="contained">Tombol</Button>
       </div>
     );
